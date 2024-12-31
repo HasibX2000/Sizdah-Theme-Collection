@@ -4,13 +4,6 @@
 
 Sizdah Theme Collection delivers 17 premium-grade dark themes designed to transform your Visual Studio Code environment. Each theme is meticulously crafted with color science and ergonomics in mind, offering:
 
-## Author
-
-- **Name:** Akon M Hasib
-- **GitHub:** [HasibX2000](https://github.com/HasibX2000)
-- **Publisher:** AkonMHasib
-- **Version:** 0.0.4
-
 ### Key Features
 
 - 🎨 Professional-grade color schemes optimized for readability
@@ -68,39 +61,39 @@ Optimized syntax highlighting for:
 
 ## Screenshots
 
-![Sizdah DreamFyre Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-dreamfyre.svg)
+![Sizdah DreamFyre Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-dreamfyre.png)
 
-![Sizdah Eggplant Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-eggplant.svg)
+![Sizdah Eggplant Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-eggplant.png)
 
-![Sizdah Exclusive Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-exclusive.svg)
+![Sizdah Exclusive Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-exclusive.png)
 
-![Sizdah Exelion Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-exelion.svg)
+![Sizdah Exelion Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-exelion.png)
 
-![Sizdah Green Lantern Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-green-lantern.svg)
+![Sizdah Green Lantern Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-green-lantern.png)
 
-![Sizdah Hacker Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-hacker.svg)
+![Sizdah Hacker Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-hacker.png)
 
-![Sizdah Hacker Pro Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-hacker-pro.svg)
+![Sizdah Hacker Pro Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-hacker-pro.png)
 
-![Sizdah Moon Lander Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-moon-lander.svg)
+![Sizdah Moon Lander Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-moon-lander.png)
 
-![Sizdah Night Flyer Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-night-flyer.svg)
+![Sizdah Night Flyer Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-night-flyer.png)
 
-![Sizdah Obsidian Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-obsidian.svg)
+![Sizdah Obsidian Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-obsidian.png)
 
-![Sizdah Odyssey Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-odyssey.svg)
+![Sizdah Odyssey Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-odyssey.png)
 
-![Sizdah PaleNight Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-palenight.svg)
+![Sizdah PaleNight Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-palenight.png)
 
-![Sizdah Pink Panda Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-pink-panda.svg)
+![Sizdah Pink Panda Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-pink-panda.png)
 
-![Sizdah Pink Panther Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-pink-panther.svg)
+![Sizdah Pink Panther Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-pink-panther.png)
 
-![Sizdah SilverWing Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-silverwing.svg)
+![Sizdah SilverWing Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-silverwing.png)
 
-![Sizdah Valkyrie Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-valkyrie.svg)
+![Sizdah Valkyrie Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-valkyrie.png)
 
-![Sizdah Winter Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-winter.svg)
+![Sizdah Winter Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-winter.png)
 
 ## Features
 
@@ -170,6 +163,13 @@ Add to your `settings.json`:
   ]
 }
 ```
+
+## Author
+
+- **Name:** Akon M Hasib
+- **GitHub:** [HasibX2000](https://github.com/HasibX2000)
+- **Publisher:** AkonMHasib
+- **Version:** 0.0.5
 
 ## Feedback and Contributions
 
