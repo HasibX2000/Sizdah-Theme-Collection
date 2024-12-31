@@ -1,0 +1,164 @@
+{
+  "name": "sizdah-themes",
+  "displayName": "Sizdah Theme Collection",
+  "description": "Premium VS Code dark theme collection featuring 17 meticulously crafted themes. From cyberpunk to cosmic designs, each theme delivers enhanced syntax highlighting and optimal contrast for reduced eye strain. Perfect for professional developers and long coding sessions.",
+  "author": "Akon M Hasib",
+  "publisher": "AkonMHasib",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HasibX2000/Sizdah-Theme-Collection"
+  },
+  "bugs": {
+    "url": "https://github.com/HasibX2000/Sizdah-Theme-Collection/issues"
+  },
+  "homepage": "https://github.com/HasibX2000/Sizdah-Theme-Collection#readme",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon/icon.png",
+  "tags": [
+    "dark theme",
+    "theme collection",
+    "professional",
+    "eye comfort",
+    "color themes",
+    "dark",
+    "theme",
+    "visual",
+    "readability",
+    "code",
+    "syntax highlighting",
+    "programming",
+    "developer tools",
+    "workspace theme",
+    "custom theme",
+    "modern theme",
+    "javascript theme",
+    "python theme",
+    "react theme",
+    "typescript theme",
+    "web development",
+    "coding",
+    "IDE theme",
+    "dark mode",
+    "night mode",
+    "dreamfyre",
+    "dracula pro",
+    "dracula",
+    "pink",
+    "premium",
+    "HasibX2000",
+    "eye protection",
+    "eye safe",
+    "DreamFyre",
+    "Eggplant",
+    "Exclusive",
+    "Exelion",
+    "Green Lantern",
+    "Hacker",
+    "Hacker Pro",
+    "Moon Lander",
+    "Night Flyer",
+    "Obsidian",
+    "Odyssey",
+    "PaleNight",
+    "Pink Panda",
+    "Pink Panther",
+    "SilverWing",
+    "Valkyrie",
+    "Winter"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sizdah - DreamFyre",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-dreamfyre.json"
+      },
+      {
+        "label": "Sizdah - Eggplant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-eggplant.json"
+      },
+      {
+        "label": "Sizdah - Exclusive",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-exclusive.json"
+      },
+      {
+        "label": "Sizdah - Exelion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-exelion.json"
+      },
+      {
+        "label": "Sizdah - Green Lantern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-greenlantern.json"
+      },
+      {
+        "label": "Sizdah - Hacker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-hacker.json"
+      },
+      {
+        "label": "Sizdah - Hacker Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-hackerpro.json"
+      },
+      {
+        "label": "Sizdah - Moon Lander",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-moonlander.json"
+      },
+      {
+        "label": "Sizdah - Night Flyer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-nightflyer.json"
+      },
+      {
+        "label": "Sizdah - Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-obsidian.json"
+      },
+      {
+        "label": "Sizdah - Odyssey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-odyssey.json"
+      },
+      {
+        "label": "Sizdah - PaleNight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-palenight.json"
+      },
+      {
+        "label": "Sizdah - Pink Panda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-pinkpanda.json"
+      },
+      {
+        "label": "Sizdah - Pink Panther",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-pinkpanther.json"
+      },
+      {
+        "label": "Sizdah - SilverWing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-silverwing.json"
+      },
+      {
+        "label": "Sizdah - Valkyrie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-valkyrie.json"
+      },
+      {
+        "label": "Sizdah - Winter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sizdah-winter.json"
+      }
+    ]
+  }
+}
