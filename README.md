@@ -9,7 +9,7 @@ Sizdah Theme Collection delivers 17 premium-grade dark themes designed to transf
 - **Name:** Akon M Hasib
 - **GitHub:** [HasibX2000](https://github.com/HasibX2000)
 - **Publisher:** AkonMHasib
-- **Version:** 0.0.3
+- **Version:** 0.0.4
 
 ### Key Features
 
