@@ -76,15 +76,15 @@ Optimized syntax highlighting for:
 
 ![Sizdah Exelion Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-exelion.png)
 
-![Sizdah Green Lantern Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-green-lantern.png)
+![Sizdah Green Lantern Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-green-la.png)
 
 ![Sizdah Hacker Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-hacker.png)
 
-![Sizdah Hacker Pro Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-hacker-pro.png)
+![Sizdah Hacker Pro Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-hacker-pr.png)
 
-![Sizdah Moon Lander Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-moon-lander.png)
+![Sizdah Moon Lander Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-moon-land.png)
 
-![Sizdah Night Flyer Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-night-flyer.png)
+![Sizdah Night Flyer Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-night-fly.png)
 
 ![Sizdah Obsidian Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-obsidian.png)
 
@@ -92,11 +92,11 @@ Optimized syntax highlighting for:
 
 ![Sizdah PaleNight Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-palenight.png)
 
-![Sizdah Pink Panda Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-pink-panda.png)
+![Sizdah Pink Panda Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-pink-pand.png)
 
-![Sizdah Pink Panther Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-pink-panther.png)
+![Sizdah Pink Panther Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-pink-pant.png)
 
-![Sizdah SilverWing Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-silverwing.png)
+![Sizdah SilverWing Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-silverwin.png)
 
 ![Sizdah Valkyrie Theme Preview](https://raw.githubusercontent.com/HasibX2000/Sizdah-Theme-Collection/main/preview/sizdah-valkyrie.png)
 
